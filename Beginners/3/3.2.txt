@@ -1,0 +1,6 @@
+#Edit the following lines
+
+Name="Nishadhi"
+Age=10
+Passed=True
+Address=" 11, Palanwatta, Pannipitiya."

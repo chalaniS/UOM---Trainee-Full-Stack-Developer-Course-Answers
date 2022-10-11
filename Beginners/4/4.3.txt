@@ -1,0 +1,5 @@
+def get_input():
+    num_1 = int(input("Enter number one: "))
+    num_2 = int(input("Enter number two: "))
+    
+    print (num_1+num_2)
